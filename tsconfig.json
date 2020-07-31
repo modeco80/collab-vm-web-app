@@ -1,0 +1,6 @@
+{
+  // disable this because VS is annoying about it
+  "compileOnSave": false
+
+  // language options go here
+}
